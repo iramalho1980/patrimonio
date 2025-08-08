@@ -1,0 +1,12 @@
+configurar parâmetros: //controle/parâmetros - configurar os campos conforme treinamento
+importar parâmetros iniciais: //Controle/Empresas, clicar em [ importação] após isso clicar em [ importar dados] da opção Honorários, selecione as 4 opções da esquerda e na direita, selecione a empresa 9995 - padrão geral e importe estes parâmetros.
+cadastrar bem: https://suporte.dominioatendimento.com/central/faces/solucao.html?codigo=422&palavraCar%20bem&modulosSelecionados=5&intencaoID=0
+cadastro de conta patrimonial: https://suporte.dominioatendimento.com/central/faces/solucao.html?codigo=420&palavraChave=conta%20patrimonial&modulosSelecionados=0&intencaoID=0
+informar dados para calcular ciap: https://suporte.dominioatendimento.com/central/faces/solucao.html?codigo=11672&palavraChave=cr%C3%A9dito%20de%20icms&modulosSelecionados=0&intencaoID=0
+baixar bem: https://suporte.dominioatendimento.com/central/faces/solucao.html?codigo=423&palavraChave=baixa&modulosSelecionados=0&intencaoID=0
+transferir bem: https://suporte.dominioatendimento.com/central/faces/solucao.html?codigo=8909&palavraChave=transfer%C3%AAncia%20bem&modulosSelecionados=0&intencaoID=0
+calcular depreciação: https://suporte.dominioatendimento.com/central/faces/solucao.html?codigo=484&palavraChave=calcular%20deprecia%C3%A7%C3%A3o&modulosSelecionados=0&intencaoID=0
+relatório de depreciação: https://suporte.dominioatendimento.com/central/faces/solucao.html?codigo=509&palavraChave=Onde%20fa%C3%A7o%20a%20emiss%C3%A3o%20do(s)%20relat%C3%B3rio(s)%20de%20deprecia%C3%A7%C3%A3o%2
+relatório do ciap: https://suporte.dominioatendimento.com/central/faces/solucao.html?codigo=512&palavraChave=ciap&modulosSelecionados=0&intencaoID=0
+integração contábil da depreciação: https://suporte.dominioatendimento.com/central/faces/solucao.html?codigo=2714&palavraChave=integra%C3%A7%C3%A3o%20cont%C3%A1bil&modulosSelecionados=5&intencaoID=0
+
